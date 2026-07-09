@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./profile.svg" alt="stivvy" width="720"/>
+  <img src="./profile.png" alt="stivvy" width="820"/>
 </p>
